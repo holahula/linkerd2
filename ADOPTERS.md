@@ -26,6 +26,7 @@
 - [M1 Finance](https://www.m1finance.com/)
 - [MattePaint](https://www.mattepaint.com/)
 - [MercedesBenz.io](https://www.mercedes-benz.io/)
+- [Mentum](https://mentumqr.com/)
 - [Mulligan Funding](https://www.mulliganfunding.com/)
 - [Mythical Games](https://mythicalgames.com/)
 - [National Information Solutions Cooperative (NISC)](https://nisc.coop/)
